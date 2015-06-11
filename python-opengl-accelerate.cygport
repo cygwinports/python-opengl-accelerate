@@ -1,0 +1,13 @@
+ORIG_PN="PyOpenGL-accelerate"
+inherit distutils
+
+NAME="python-opengl-accelerate"
+VERSION=3.1.0
+RELEASE=1
+CATEGORY="Python"
+SUMMARY="Python OpenGL acceleration code"
+DESCRIPTION="PyOpenGL is the cross platform Python binding to OpenGL
+and related APIs."
+HOMEPAGE="http://pyopengl.sourceforge.net/"
+
+DOCS="license.txt"
