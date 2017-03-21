@@ -1,9 +1,9 @@
 ORIG_PN="PyOpenGL-accelerate"
-inherit distutils
+inherit python-wheel
 
 NAME="python-opengl-accelerate"
 VERSION=3.1.0
-RELEASE=1
+RELEASE=2
 CATEGORY="Python"
 SUMMARY="Python OpenGL acceleration code"
 DESCRIPTION="PyOpenGL is the cross platform Python binding to OpenGL
